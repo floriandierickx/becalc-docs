@@ -1,1 +1,1 @@
-web: gunicorn kerkoapp:app
+web: gunicorn app:kerkoapp
